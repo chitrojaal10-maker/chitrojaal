@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ChitroJaal</string>
+    <string name="title_activity_main">ChitroJaal</string>
+    <string name="package_name">com.chitrojaal.app</string>
+    <string name="custom_url_scheme">com.chitrojaal.app</string>
+</resources>

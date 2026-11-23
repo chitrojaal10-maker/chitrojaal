@@ -1,0 +1,18 @@
+{
+  "portfolio": {
+    "intervalDuration": 1000,
+    "animationType": "blur"
+  },
+  "portrait-library": {
+    "intervalDuration": 1000,
+    "animationType": "fade"
+  },
+  "package": {
+    "intervalDuration": 2000,
+    "animationType": "zoom"
+  },
+  "landscape-library": {
+    "intervalDuration": 2000,
+    "animationType": "slide"
+  }
+}
